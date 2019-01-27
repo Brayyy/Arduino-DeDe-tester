@@ -23,9 +23,6 @@ void setup() {
 
 void loop() {
 
-  delay(5000);
-
-
   // Toggle digital HIGH, then LOW
   for (int j = 0; j < 2; j++) {
     // Flip the toggle state
